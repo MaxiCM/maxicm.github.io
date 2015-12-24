@@ -2,22 +2,20 @@
 <ROM>
   <!-- Your ROM Name -->
   <RomName>MaxiCM</RomName>
-  <VersionName>MaxiCM-5.1-20151219-OFFICIAL-falcon.zip</VersionName>
-  <VersionNumber type="integer">20151219</VersionNumber>
-  <DirectUrl>https://basketbuild.com/uploads/devs/MaxiCM/falcon/MaxiCM-5.1-20151219-OFFICIAL-falcon.zip</DirectUrl>
+  <VersionName>MaxiCM-5.1-20151223-OFFICIAL-falcon.zip</VersionName>
+  <VersionNumber type="integer">20151223</VersionNumber>
+  <DirectUrl>https://basketbuild.com/uploads/devs/MaxiCM/falcon/MaxiCM-5.1-20151223-OFFICIAL-falcon.zip</DirectUrl>
   <HttpUrl>https://basketbuild.com/devs/MaxiCM/falcon</HttpUrl>
   <Android>5.1.1</Android>
   <Developer>Krizthian</Developer>
   <WebsiteURL>http://maxicm.com/</WebsiteURL>
   <DonateURL>https://goo.gl/xOkQPD</DonateURL>
-  <Changelog>### Changelog 20151219
-* Initial Kernel Update.
-* Introduced Support for Fastcharge
-* Introduced New init.d scripts for better performance
-* Trying to fix Performance Options
-* Introduced Kernel Tweaks
-* Fix "Model Name" in About Phone
-* Enabled finally OTA Updater
-* Changes in Recovery Script
+  <Changelog>### Changelog 20151223
+* Introduced Merry Christmas Surprise
+* Device Tree Updates
+* Epic Kernel Optimizations(I RECOMMEND INSTALL)
+* Epic Kernel Updates(I RECOMMEND INSTALL)
+* Finally fixed "Model Name" in About Phone
+* Finally enabled Fastcharge
 * And More</Changelog>
 </ROM>
