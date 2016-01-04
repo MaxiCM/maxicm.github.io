@@ -2,27 +2,26 @@
 <ROM>
   <!-- Your ROM Name -->
   <RomName>MaxiCM</RomName>
-  <VersionName>MaxiCM-5.1-20151219-OFFICIAL-jagnm.zip</VersionName>
-  <VersionNumber type="integer">20151219</VersionNumber>
-  <DirectUrl>https://basketbuild.com/uploads/devs/MaxiCM/jagnm/MaxiCM-5.1-20151219-OFFICIAL-jagnm.zip</DirectUrl>
+  <VersionName>MaxiCM-5.1-20160104-OFFICIAL-jagnm.zip</VersionName>
+  <VersionNumber type="integer">20160104</VersionNumber>
+  <DirectUrl>https://basketbuild.com/uploads/devs/MaxiCM/jagnm/MaxiCM-5.1-20160104-OFFICIAL-jagnm.zip</DirectUrl>
   <HttpUrl>https://basketbuild.com/devs/MaxiCM/jagnm</HttpUrl>
   <Android>5.1.1</Android>
   <Developer>XperiAMM</Developer>
   <WebsiteURL>http://maxicm.com/</WebsiteURL>
   <DonateURL>https://goo.gl/xOkQPD</DonateURL>
-  <Changelog>### Changelog 20151219
-* Epic Update Kernel:
-* Kernel version update 3.4.110
-* Tweaks update and add more
-* Added new governors
-* GPU optimizations
-* GPU OC 600MHz
-* Add ZRAM and optimizations
-* I/O Boost
-* NEON support
-* Epic Update sources
-* Minor Fixes
-* Fix Mic v2
-* Add SuperSu
-* And More</Changelog>
+  <Changelog>### Changelog 20160104
+* Introduced Happy New Year Surprise
+* Introduced MaxiTweaks in build.prop
+* Introduced Translates to Spanish in Settings
+* Launch SuperSU from Settings
+* Fix FC Settings by OTA
+* Updated OTA Updater to 2.6
+* Add support smartcover 
+* Update NFC
+* Update android-5.1.1_r30
+* Remove Wheatley (Causes the cell is restarted)
+* Add Toast Animation
+* Update sources
+* And more!</Changelog>
 </ROM>
