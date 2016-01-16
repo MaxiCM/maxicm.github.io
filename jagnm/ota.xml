@@ -2,26 +2,22 @@
 <ROM>
   <!-- Your ROM Name -->
   <RomName>MaxiCM</RomName>
-  <VersionName>MaxiCM-5.1-20160104-OFFICIAL-jagnm.zip</VersionName>
-  <VersionNumber type="integer">20160104</VersionNumber>
-  <DirectUrl>https://basketbuild.com/uploads/devs/MaxiCM/jagnm/MaxiCM-5.1-20160104-OFFICIAL-jagnm.zip</DirectUrl>
+  <VersionName>MaxiCM-5.1-20160116-OFFICIAL-jagnm.zip</VersionName>
+  <VersionNumber type="integer">20160116</VersionNumber>
+  <DirectUrl>https://basketbuild.com/uploads/devs/MaxiCM/jagnm/MaxiCM-5.1-20160116-OFFICIAL-jagnm.zip</DirectUrl>
   <HttpUrl>https://basketbuild.com/devs/MaxiCM/jagnm</HttpUrl>
   <Android>5.1.1</Android>
   <Developer>XperiAMM</Developer>
   <WebsiteURL>http://maxicm.com/</WebsiteURL>
   <DonateURL>https://goo.gl/xOkQPD</DonateURL>
-  <Changelog>### Changelog 20160104
-* Introduced Happy New Year Surprise
-* Introduced MaxiTweaks in build.prop
-* Introduced Translates to Spanish in Settings
-* Launch SuperSU from Settings
-* Fix FC Settings by OTA
-* Updated OTA Updater to 2.6
-* Add support smartcover 
-* Update NFC
-* Update android-5.1.1_r30
-* Remove Wheatley (Causes the cell is restarted)
-* Add Toast Animation
+  <Changelog>### Changelog 20160116
+* Add new camera (for Snapdragon)
+* New effects for camera
+* Add panoramic camera
+* And more (Camera) 
+* No more lost sound after taking photo
+* Update NFC (It works perfectly)
+* Update android-5.1.1_r33
 * Update sources
 * And more!</Changelog>
 </ROM>
