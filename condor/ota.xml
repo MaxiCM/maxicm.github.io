@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <!-- Your ROM Name -->
+  <RomName>MaxiCM</RomName>
+  <VersionName>MaxiCM-5.1-20160218-OFFICIAL-condor.zip</VersionName>
+  <VersionNumber type="integer">20160218</VersionNumber>
+  <DirectUrl>https://basketbuild.com/uploads/devs/MaxiCM/condor/MaxiCM-5.1-20160218-OFFICIAL-condor.zip</DirectUrl>
+  <HttpUrl>https://basketbuild.com/devs/MaxiCM/condor</HttpUrl>
+  <Android>5.1.1</Android>
+  <Developer>am2012</Developer>
+  <WebsiteURL>http://maxicm.com/</WebsiteURL>
+  <DonateURL>https://goo.gl/xOkQPD</DonateURL>
+  <Changelog>### Changelog 20160218
+* First release
+</Changelog>
+</ROM>
