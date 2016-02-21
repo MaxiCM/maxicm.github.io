@@ -2,23 +2,20 @@
 <ROM>
   <!-- Your ROM Name -->
   <RomName>MaxiCM</RomName>
-  <VersionName>MaxiCM-5.1-20160101-OFFICIAL-falcon.zip</VersionName>
-  <VersionNumber type="integer">20160101</VersionNumber>
-  <DirectUrl>https://basketbuild.com/uploads/devs/MaxiCM/falcon/MaxiCM-5.1-20160101-OFFICIAL-falcon.zip</DirectUrl>
+  <VersionName>MaxiCM-5.1-20160221-OFFICIAL-falcon.zip</VersionName>
+  <VersionNumber type="integer">20160221</VersionNumber>
+  <DirectUrl>https://basketbuild.com/uploads/devs/MaxiCM/falcon/MaxiCM-5.1-20160221-OFFICIAL-falcon.zip</DirectUrl>
   <HttpUrl>https://basketbuild.com/devs/MaxiCM/falcon</HttpUrl>
   <Android>5.1.1</Android>
   <Developer>Krizthian</Developer>
   <WebsiteURL>http://maxicm.com/</WebsiteURL>
   <DonateURL>https://goo.gl/xOkQPD</DonateURL>
-  <Changelog>### Changelog 20160101
-* Introduced Happy New Year Surprise
-* Introduced support for overclock GPU to 533MHz
-* Introduced MaxiTweaks in build.prop(Really nice)
-* Introduced Translates to Spanish in Settings
-* Launch SuperSU from Settings
-* Updated Strings in Changelog
-* Fixed OTA Updater for new users
-* Updated OTA Updater to 2.6
-* Updated PNG's of OTA Updater
+  <Changelog>### Changelog 20160221
+* Removed MaxiCM Performance Settings
+* Update android-5.1.1_r34
+* Introduced more tweaks (Scroll and more)
+* Introduced support for Krait Tunnings
+* Increased zRAM size
+* Kernel Updates
 * And More</Changelog>
 </ROM>
