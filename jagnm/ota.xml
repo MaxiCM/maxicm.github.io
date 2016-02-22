@@ -2,20 +2,28 @@
 <ROM>
   <!-- Your ROM Name -->
   <RomName>MaxiCM</RomName>
-  <VersionName>MaxiCM-5.1-20160205-OFFICIAL-jagnm.zip</VersionName>
-  <VersionNumber type="integer">20160205</VersionNumber>
-  <DirectUrl>https://basketbuild.com/uploads/devs/MaxiCM/jagnm/MaxiCM-5.1-20160205-OFFICIAL-jagnm.zip</DirectUrl>
+  <VersionName>MaxiCM-5.1-20160222-OFFICIAL-jagnm.zip</VersionName>
+  <VersionNumber type="integer">20160222</VersionNumber>
+  <DirectUrl>https://basketbuild.com/uploads/devs/MaxiCM/jagnm/MaxiCM-5.1-20160222-OFFICIAL-jagnm.zip</DirectUrl>
   <HttpUrl>https://basketbuild.com/devs/MaxiCM/jagnm</HttpUrl>
   <Android>5.1.1</Android>
   <Developer>XperiAMM</Developer>
   <WebsiteURL>http://maxicm.com/</WebsiteURL>
   <DonateURL>https://goo.gl/xOkQPD</DonateURL>
-  <Changelog>### Changelog 20160205
-* Remove MaxiCM Performance (Bug)
-* Update NFC (It works perfectly)
-* Update android-5.1.1_r34
-* Update security patch
-* Update launcher
+  <Changelog>### Changelog 20160222
+* Epic Update rom
+* MaxiCM Bootanimation
+* Add Headset icon
+* Optimization PngCrusher
+* Optimization Krait
+* Fix charger cell poweroff
+* Tune Snap configs
+* Add F2FS data and cache
+* Add acdb fix for:
+* 1. Volume call (Ultimate Fix)
+* 2. Bluetooh
+* 3. Hendset 
+* 4. HDMI and more!
 * Update sources
 * And more!</Changelog>
 </ROM>
