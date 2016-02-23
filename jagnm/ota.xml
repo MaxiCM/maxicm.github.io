@@ -2,15 +2,20 @@
 <ROM>
   <!-- Your ROM Name -->
   <RomName>MaxiCM</RomName>
-  <VersionName>MaxiCM-5.1-20160222-OFFICIAL-jagnm.zip</VersionName>
-  <VersionNumber type="integer">20160222</VersionNumber>
-  <DirectUrl>https://basketbuild.com/uploads/devs/MaxiCM/jagnm/MaxiCM-5.1-20160222-OFFICIAL-jagnm.zip</DirectUrl>
+  <VersionName>MaxiCM-5.1-20160223-OFFICIAL-jagnm.zip</VersionName>
+  <VersionNumber type="integer">20160223</VersionNumber>
+  <DirectUrl>https://basketbuild.com/uploads/devs/MaxiCM/jagnm/MaxiCM-5.1-20160223-OFFICIAL-jagnm.zip</DirectUrl>
   <HttpUrl>https://basketbuild.com/devs/MaxiCM/jagnm</HttpUrl>
   <Android>5.1.1</Android>
   <Developer>XperiAMM</Developer>
   <WebsiteURL>http://maxicm.com/</WebsiteURL>
   <DonateURL>https://goo.gl/xOkQPD</DonateURL>
-  <Changelog>### Changelog 20160222
+  <Changelog>### Changelog 20160223
+* Small update
+* Delete: Optimization Krait
+* Fix Low battery life
+
+### Changelog 20160222
 * Epic Update rom
 * MaxiCM Bootanimation
 * Add Headset icon
