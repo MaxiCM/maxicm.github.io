@@ -2,20 +2,27 @@
 <ROM>
   <!-- Your ROM Name -->
   <RomName>MaxiCM</RomName>
-  <VersionName>MaxiCM-5.1-20160221-OFFICIAL-falcon.zip</VersionName>
-  <VersionNumber type="integer">20160221</VersionNumber>
-  <DirectUrl>https://basketbuild.com/uploads/devs/MaxiCM/falcon/MaxiCM-5.1-20160221-OFFICIAL-falcon.zip</DirectUrl>
+  <VersionName>MaxiCM-5.1-20160227-OFFICIAL-falcon.zip</VersionName>
+  <VersionNumber type="integer">20160227</VersionNumber>
+  <DirectUrl>https://basketbuild.com/uploads/devs/MaxiCM/falcon/MaxiCM-5.1-20160227-OFFICIAL-falcon.zip</DirectUrl>
   <HttpUrl>https://basketbuild.com/devs/MaxiCM/falcon</HttpUrl>
   <Android>5.1.1</Android>
   <Developer>Krizthian</Developer>
   <WebsiteURL>http://maxicm.com/</WebsiteURL>
   <DonateURL>https://goo.gl/xOkQPD</DonateURL>
-  <Changelog>### Changelog 20160221
-* Removed MaxiCM Performance Settings
-* Update android-5.1.1_r34
-* Introduced more tweaks (Scroll and more)
-* Introduced support for Krait Tunnings
-* Increased zRAM size
-* Kernel Updates
+  <Changelog>### Changelog 20160227
+* MaxiKernel updated to 3.4.70
+* Introduced Intelliplug 3.7 on MaxiKernel
+* Introduced Powersuspend on MaxiKernel
+* Change values on MaxiKernel for reduce some lags
+* Make more faster Wakelock
+* Reduced zRAM size
+* Tweak some governors
+* Introduced some tweaks on MaxiKernel
+* Reclaimed some RAM
+* Little Pink Tweaks
+* INTRODUCED SUPPORT FOR OPTIMIZATIONS ON msm8226-common (Based in CyanogenMod 12.0 Optimized by MasterAwesome)
+* Little memory tweaks
+* Changed init.qcom.rc "interactive" governor for "performance" (50% more performance)
 * And More</Changelog>
 </ROM>
