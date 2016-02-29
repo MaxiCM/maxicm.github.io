@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hash>
+    <addons>
+        <addon>
+            <id>1</id>
+            <name>Gapps</name>
+            <description>Google Apps for MaxiCM</description>
+            <updated-at>2016-02-14</updated-at>
+            <download-link>
+            https://basketbuild.com/uploads/devs/MaxiCM/gapps/Maxi-5.1.x-Gapps-v2.zip
+            </download-link>
+        </addon>
+    </addons>
+</hash>
