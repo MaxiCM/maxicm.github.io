@@ -2,14 +2,30 @@
 <ROM>
   <!-- Your ROM Name -->
   <RomName>MaxiCM</RomName>
-  <VersionName>MaxiCM-5.1-20151227-OFFICIAL-janice.zip</VersionName>
-  <VersionNumber type="integer">20151227</VersionNumber>
-  <DirectUrl>https://basketbuild.com/uploads/devs/MaxiCM/janice/MaxiCM-5.1-20151227-OFFICIAL-janice.zip</DirectUrl>
+  <VersionName>MaxiCM-5.1-20160228-OFFICIAL-janice.zip</VersionName>
+  <VersionNumber type="integer">20160228</VersionNumber>
+  <DirectUrl>https://basketbuild.com/uploads/devs/MaxiCM/janice/MaxiCM-5.1-20160228-OFFICIAL-janice.zip</DirectUrl>
   <HttpUrl>https://basketbuild.com/devs/MaxiCM/janice</HttpUrl>
   <Android>5.1.1</Android>
   <Developer>Epirex</Developer>
   <WebsiteURL>http://maxicm.com/</WebsiteURL>
   <DonateURL>https://goo.gl/WHTVga</DonateURL>
-  <Changelog>### Changelog 20151227
-* First build</Changelog>
+  <Changelog>### Changelog 20160228
+
+--Device tree source update--
+* Update STE fixes
+* Fix video recording!
+* Remove Samsung blobs from vendor
+* Kernel: Add frandom module
+
+--MaxiCM source update--
+* Removed MaxiCM Performance Settings
+* Update to android-5.1.1_r34
+* Introduced more tweaks (Scroll and more)
+* Launch SuperSU from Settings
+* Fixed OTA Updater
+* Add Toast Animation
+* Add Headset icon
+* Optimization PngCrusher
+* And more!</Changelog>
 </ROM>
