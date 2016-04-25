@@ -2,21 +2,22 @@
 <ROM>
   <!-- Your ROM Name -->
   <RomName>MaxiCM</RomName>
-  <VersionName>MaxiCM-5.1-20160327-OFFICIAL-janice.zip</VersionName>
+  <VersionName>MaxiCM-5.1-20160424-OFFICIAL-janice.zip</VersionName>
   <VersionNumber type="integer">20160327</VersionNumber>
-  <DirectUrl>https://basketbuild.com/uploads/devs/MaxiCM/janice/MaxiCM-5.1-20160327-OFFICIAL-janice.zip</DirectUrl>
+  <DirectUrl>https://basketbuild.com/uploads/devs/MaxiCM/janice/MaxiCM-5.1-20160424-OFFICIAL-janice.zip</DirectUrl>
   <HttpUrl>https://basketbuild.com/devs/MaxiCM/janice</HttpUrl>
   <Android>5.1.1</Android>
   <Developer>Epirex</Developer>
   <WebsiteURL>http://maxicm.com/</WebsiteURL>
   <DonateURL>https://goo.gl/WHTVga</DonateURL>
-  <Changelog>### Changelog 20160327
-* MaxiCM source update: android-5.1.1_r36
-* Device tree update: SELinux fixes
-* Fixed Wi-Fi!
-* Fixed Wi-Fi hotspot
-* Fixed Torch delays
-* New TWRP 3.0.0-0
-* Kernel: lighten size, update LMK from 3.4 and add CPU-Boost driver
+  <Changelog>### Changelog 20160424
+* MaxiCM source update: android-5.1.1_r37
+* Device tree update: Minor fixes
+* Fix some problems with Camera app
+* Fix problems with low call volume
+* Disable SELinux for now (Very buggy)
+* Optimize F2FS filesystem
+* Update TWRP to 3.0.2-0
+* Kernel: New crypto implementation
 * And more!</Changelog>
 </ROM>
