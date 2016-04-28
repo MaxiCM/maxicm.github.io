@@ -3,7 +3,7 @@
   <!-- Your ROM Name -->
   <RomName>MaxiCM</RomName>
   <VersionName>MaxiCM-5.1-20160424-OFFICIAL-janice.zip</VersionName>
-  <VersionNumber type="integer">20160327</VersionNumber>
+  <VersionNumber type="integer">20160424</VersionNumber>
   <DirectUrl>https://basketbuild.com/uploads/devs/MaxiCM/janice/MaxiCM-5.1-20160424-OFFICIAL-janice.zip</DirectUrl>
   <HttpUrl>https://basketbuild.com/devs/MaxiCM/janice</HttpUrl>
   <Android>5.1.1</Android>
