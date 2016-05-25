@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <!-- Your ROM Name -->
+  <RomName>MaxiCM</RomName>
+  <VersionName>MaxiCM-5.1-20160525-OFFICIAL-fortunave3g.zip</VersionName>
+  <VersionNumber type="integer">20160525</VersionNumber>
+  <DirectUrl>https://basketbuild.com/uploads/devs/MaxiCM/fortunave3g/MaxiCM-5.1-20160525-OFFICIAL-fortunave3g.zip</DirectUrl>
+  <HttpUrl>https://basketbuild.com/devs/MaxiCM/fortunave3g</HttpUrl>
+  <Android>5.1.1</Android>
+  <Developer>kn06497</Developer>
+  <WebsiteURL>http://maxicm.com/</WebsiteURL>
+  <DonateURL>https://goo.gl/xOkQPD</DonateURL>
+  <Changelog>### Changelog 20160525
+* Update Camera
+* Update Audio for call
+* Added fast charge patch
+* Initial Official Suport
+* Added some tweaks
+* And More</Changelog>
+</ROM>
