@@ -2,15 +2,15 @@
 <ROM>
   <!-- Your ROM Name -->
   <RomName>MaxiCM</RomName>
-  <VersionName>MaxiCM-5.1-20160527-OFFICIAL-fortuna3g.zip</VersionName>
-  <VersionNumber type="integer">20160527</VersionNumber>
-  <DirectUrl>https://basketbuild.com/uploads/devs/MaxiCM/fortuna3g/MaxiCM-5.1-20160527-OFFICIAL-fortuna3g.zip</DirectUrl>
+  <VersionName>MaxiCM-5.1-20160528-OFFICIAL-fortuna3g.zip</VersionName>
+  <VersionNumber type="integer">20160528</VersionNumber>
+  <DirectUrl>https://basketbuild.com/uploads/devs/MaxiCM/fortuna3g/MaxiCM-5.1-20160528-OFFICIAL-fortuna3g.zip</DirectUrl>
   <HttpUrl>https://basketbuild.com/devs/MaxiCM/fortuna3g</HttpUrl>
   <Android>5.1.1</Android>
   <Developer>kn06497</Developer>
   <WebsiteURL>http://maxicm.com/</WebsiteURL>
   <DonateURL>https://goo.gl/xOkQPD</DonateURL>
-  <Changelog>### Changelog 20160527
+  <Changelog>### Changelog 20160528
 * Fixed SIM2 Audio thkz ZIM555
 * Update sources
 * Update camera
